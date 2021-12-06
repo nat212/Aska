@@ -1,4 +1,4 @@
-![Aska Banner](Graphics/WJ_Banner.png)
+![Aska WJ Banner](Graphics/WJ_Banner.png)
 
 # Preamble
 
